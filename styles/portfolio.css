@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Press+Start+2P&display=swap');
+
+body {
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Playfair Display', serif;
+}
